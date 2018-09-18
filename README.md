@@ -1,6 +1,6 @@
 # iarduino_GSM
 Библиотека Battery_Shield позволяет устанавливать голосовые соединения и обмениваться SMS (в т.ч. на Русском языке) используя несколько простых и понятных функций.
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+![screenshot of sample](http://iarduino.ru/img/upload/b1f251ef095fef6d97a4d59f03c2ec72.png)
 Данная библиотека может использовать как аппаратную, так и программную реализацию шины UART. 
 Подробное описание работы с библиотекой, находится в разделе Wiki - GSM/GPRS Shield A6.
 
